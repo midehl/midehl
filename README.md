@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**midehl/midehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer II at **Walmart Global Tech** — backend on the display
+ad-serving platform. Java, Spring Boot, Kafka, Cassandra, Kubernetes.
 
-Here are some ideas to get you started:
+- 🔭 Currently: real-time distributed systems for ad serving
+- 🌱 Learning: distributed data systems, AI agent tooling & harnesses
+- ⚡ Off the keyboard: basketball, running, and hunting down good matcha
+- 🌐 More at [johnmiclat.dev](https://johnmiclat.dev)
+- 📫 miclatjohn1@gmail.com · [LinkedIn](https://www.linkedin.com/in/johnmidelmiclat/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+
+`Java` `Spring Boot` `Kafka` `Cassandra` `Kubernetes` `Go` `TypeScript` `Python`
+
+![GitHub streak](https://github-readme-streak-stats.demolab.com?user=midehl)
+
+<img src="assets/cute.gif" align="right" width="150" alt="">
