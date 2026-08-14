@@ -7,7 +7,7 @@ ad-serving platform. Java, Spring Boot, Kafka, Cassandra, Kubernetes.
 - 🌱 Learning: distributed data systems, AI agent tooling & harnesses
 - ⚡ Off the keyboard: basketball, running, and hunting down good matcha
 - 🌐 More at [johnmiclat.dev](https://johnmiclat.dev)
-- 📫 miclatjohn1@gmail.com · [LinkedIn](https://www.linkedin.com/in/johnmidelmiclat/)
+- 📫 miclatjohndev@gmail.com · [LinkedIn](https://www.linkedin.com/in/johnmidelmiclat/)
 
 ### Tech I work with
 
