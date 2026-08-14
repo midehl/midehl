@@ -13,5 +13,5 @@ ad-serving platform. Java, Spring Boot, Kafka, Cassandra, Kubernetes.
 
 `Java` `Spring Boot` `Kafka` `Cassandra` `Kubernetes` `Go` `TypeScript` `Python`
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=midehl&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
 
