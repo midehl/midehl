@@ -15,4 +15,3 @@ ad-serving platform. Java, Spring Boot, Kafka, Cassandra, Kubernetes.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-<img src="assets/cute.gif" align="right" width="150" alt="">
